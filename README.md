@@ -1,5 +1,5 @@
 <h1>
-	<img width="48" align="left" src="https://github.com/BNDays27/sadxmi-linux/blob/main/samm.png?raw=true">
+	<img width="48" align="left" src="https://github.com/BNDays27/salms/blob/main/samm.png?raw=true">
 	</a>
 	Sonic Adventure Linux Modding Script (SALMS)
 </h1>
@@ -48,21 +48,21 @@ flatpak install flathub com.github.Matoking.protontricks
 ### non-immutable Linux Distros
 If you've installed Protontricks natively or through pip/pipx, clone the repo and use the `setup-linux.sh` script
 ```
-git clone https://github.com/BNDays27/sadxmi-linux
-cd sadxmi-linux
+git clone https://github.com/BNDays27/salms
+cd salms
 ./setup-linux.sh
 ```
 
 ### SteamOS/Bazzite/other immutable Linux distros
 If you've installed Protontricks through the Flatpak or are on SteamOS, clone the repo and use the `setup-immutable.sh` script
 ```
-git clone https://github.com/BNDays27/sadxmi-linux
-cd sadxmi-linux
+git clone https://github.com/BNDays27/salms
+cd salms
 ./setup-immutable.sh
 ```
 
 ## Bugs/Issue Reporting
-If you have any bugs, please go and report an issue [in the issues section of the repo](https://github.com/BNDays27/sadxmi-linux/issues), I'll try and get to you as soon as I can, I am only human after all
+If you have any bugs, please go and report an issue [in the issues section of the repo](https://github.com/BNDays27/salms/issues), I'll try and get to you as soon as I can, I am only human after all
 
 ## Licenses
 
