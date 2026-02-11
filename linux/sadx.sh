@@ -3,10 +3,8 @@ echo "Entering setup"
 selected_folder=$(zenity --file-selection --directory --title "select the directory where Sonic Adventure DX is installed")
 
 if [ -f "$selected_folder/Sonic Adventure DX.exe" ]; then
-
    echo "Sonic Adventure DX.exe detected, downloading and running the SADX Mod Installer"
 else
-
    echo "The folder doesn't contain Sonic Adventure DX.exe, please run the script again and select the correct directory"
    exit 0
 fi
@@ -19,7 +17,7 @@ protontricks-launch --appid 71250 "$selected_folder/sadx_setup.exe"
  if [[ -f $selected_folder/SAModManager.exe ]]; then 
     echo "SA Mod Manager has been installed"; 
  else
-    echo "SADX Mod Manager hasn't been installed"
+    echo "SA Mod Manager hasn't been installed, please go and run the script again"
     exit 0
  fi
 

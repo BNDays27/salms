@@ -1,6 +1,4 @@
 #!/bin/sh
-
-# this is the actual installer
 echo "entering setup"
 selected_folder=$(zenity --file-selection --directory --title "select the directory where Sonic Adventure DX is installed")
 
@@ -19,7 +17,7 @@ fi
  if [[ -f $selected_folder/SAModManager.exe ]]; then 
     echo "SA Mod Manager has been installed"
  else
-    echo "SADX Mod Manager hasn't been installed"
+    echo "SA Mod Manager hasn't been installed, please go and run the script again"
     exit 0
  fi
 

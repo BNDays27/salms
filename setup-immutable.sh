@@ -1,5 +1,5 @@
 #!/bin/sh
-name="SADX Mod Installer"
+name="SALMS"
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 icon_path="$SCRIPT_DIR/samm.png"
 desktop_files=${XDG_DATA_HOME:-$HOME/.local/share}/applications
