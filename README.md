@@ -75,5 +75,9 @@ the Free Software Foundation, either version 3 of the License, or
 
 ### Thanks!
 All of the contributors to the [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager/graphs/contributors)
+
 [PkR](https://gitlab.com/PiKeyAr): for creating the [SADX Mod Installer](https://gitlab.com/PiKeyAr/sadx-mod-installer/-/wikis/home)
+
 The authors of the mods featured [in the installer](https://gitlab.com/PiKeyAr/sadx-mod-installer/-/wikis/home)
+
+I **really** couldn't do this without any of these exiting, so you should give them some love, they deserve it
