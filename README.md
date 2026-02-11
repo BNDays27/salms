@@ -64,15 +64,6 @@ cd salms
 ## Bugs/Issue Reporting
 If you have any bugs, please go and report an issue [in the issues section of the repo](https://github.com/BNDays27/salms/issues), I'll try and get to you as soon as I can, I am only human after all
 
-## Licenses
-
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
-
-This project is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
 ### Thanks!
 All of the contributors to the [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager/graphs/contributors)
 
@@ -81,3 +72,12 @@ All of the contributors to the [Sonic Adventure Mod Manager](https://github.com/
 The authors of the mods featured [in the installer](https://gitlab.com/PiKeyAr/sadx-mod-installer/-/wikis/home)
 
 I **really** couldn't do this without any of these exiting, so you should give them some love, they deserve it
+
+## Licenses
+
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
+
+This project is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
